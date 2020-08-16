@@ -1,9 +1,9 @@
 {
   "redirects": [
     {"source": "/", "destination": "https://github.com/Summertime/nc2fm/"},
-    {"source": "/remote.php/caldav/", "destination": "https://caldav.fastmail.com/dav/calendars", "permanent": "true"},
-    {"source": "/.well-known/caldav", "destination": "https://caldav.fastmail.com/dav/calendars", "permanent": "true"},
-    {"source": "/remote.php/carddav/", "destination": "https://carddav.fastmail.com/dav/addressbooks","permanent": "true"},
-    {"source": "/.well-known/carddav", "destination": "https://carddav.fastmail.com/dav/addressbooks", "permanent": "true"}
+    {"source": "/remote.php/caldav/", "destination": "https://caldav.fastmail.com/dav/calendars", "permanent": true},
+    {"source": "/.well-known/caldav", "destination": "https://caldav.fastmail.com/dav/calendars", "permanent": true},
+    {"source": "/remote.php/carddav/", "destination": "https://carddav.fastmail.com/dav/addressbooks","permanent": true},
+    {"source": "/.well-known/carddav", "destination": "https://carddav.fastmail.com/dav/addressbooks", "permanent": true}
   ]
 }
